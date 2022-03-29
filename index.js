@@ -13,9 +13,9 @@ let items = ["Buy Food", "Prepare Food", "Cook Food", "Eat Food"];
 // set an empty array for new work items
 let workItems = ["Show Up"];
 // create new array for fun items
-let funItems = ["Watch TV", "Read a Book"];
+let funItems = ["Spend time with family", "Watch Netflix", "Go for a hike"];
 // set an empty array for new weekend items
-let weekendItems = ["Relax", "Watch TV"];
+let weekendItems = ["Unpack", "Settle into new room", "Catch up on homework"];
 
 // set EJS as the viewing engine to display html
 app.set('view engine', 'ejs');
